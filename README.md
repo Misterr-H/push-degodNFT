@@ -1,4 +1,4 @@
-This is the [**Push Protocol Hiring Challenge DeGods NFT**](https://reactnative.dev) project.
+This is the [**Push Protocol Hiring Challenge DeGods NFT**](https://pushprotocol.notion.site/pushprotocol/Push-Protocol-HIRING-CHALLENGE-b0890ba25eb94054a1e9900b3c96ae52) project.
 
 ID: Push-Protocol-HIRING-CHALLENGE-b0890ba25eb94054a1e9900b3c96ae52
 
